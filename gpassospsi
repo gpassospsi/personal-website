@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriel Passos - Psicólogo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #001f3f; /* Azul petróleo */
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        h2 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gabriel Passos</h1>
+        <h2>Psicólogo</h2>
+    </header>
+
+    <div class="container">
+        <h2>Serviços Psicológicos</h2>
+        <p>Bem-vindo ao meu site! Sou Gabriel Passos, psicólogo especializado em psicanálise clínica. Aqui, você encontrará informações sobre os serviços que ofereço para ajudá-lo a cuidar da sua saúde mental.</p>
+        <p>Se você está buscando apoio psicológico, entre em contato comigo para agendar uma consulta. Estou aqui para ajudar você a enfrentar desafios, compreender seus sentimentos e promover o seu bem-estar.</p>
+    </div>
+</body>
+</html>
